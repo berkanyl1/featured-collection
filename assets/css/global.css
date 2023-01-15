@@ -1,0 +1,15 @@
+html,body {
+    overflow: hidden;
+    overflow-y: auto;
+    padding: 0;
+    margin: 0;
+    font-family: ITC Avant Garde Gothic Pro,Avenir,sans-serif;
+    --bs-body-font-family: Avenir,sans-serif;
+    --bs-link-color: #000;
+    --bs-link-hover-color: #000 
+}
+@font-face {
+    font-family: "ITC Avant Garde Gothic Pro";
+    src: url("../fonts/ITCAvantGardePro-Md.otf");
+}
+
